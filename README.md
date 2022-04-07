@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Logesh Sakthivel
-- 👀 I’m interested in Python Scripting, Automation, Networking and APIs.
+- 👋 Hi, I’m **Logesh Sakthivel**
+- 👀 Python Scripting, Automation, Networking and APIs excites me.
 - 💞️ I’m looking to collaborate on the Projects that includes the above mentioned domain/topic.
 - 📫 Reach me at logesh.vel31@gmail.com
 
